@@ -1,0 +1,6 @@
+{
+  "name": "Dhanalaxmi Matka Agency",
+  "description": "Authentic Indian Matka prediction web app for Dhanalaxmi Matka Agency featuring live results, 8 traditional markets, betting slips, wallet transactions, and admin controls in prestigious burgundy and royal gold.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
